@@ -4,37 +4,27 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 ### Skills Learned
 -WireShark filter commands:
-<p>--</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-
+<p>--by IP Address (ip.addr == ...)</p>
+<p>--by source IP Address (ip.src == ...)</p>
+<p>--by destintation Address (ip.dst == ...)</p>
+<p>--by MAC address (eth.addr ==...)</p>
+<p>--by DNS resolve (udp.port == 53)/p>
+<p>--by HTTPS traffic (tcp.port == 80)</p>
+<p>-by TCP traffic with text data (tcp contains "curl")</p>
+<p>-Packet capture analysis:</p>
+<p>--Destination IP address</p>
+<p>--Arrival time</p>
+<p>--Header Length</p>
+<p>--Frame length</p>
+<p>--MAC address</p>
+<p>--Internal protocol</p>
+<p>--Time to live</p>
+<p>--TCP containing text data</p>
 
 ### Tools Used
 -Laptop
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
-<p>-</p>
+<p>-WireShark</p>
+<p>-Coursera Google Cybersecurity Professional Certification</p>
 
 ### Steps
 <img src="https://i.imgur.com/hikn1xJ.jpg" style="width: 100%;" alt="1">
