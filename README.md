@@ -11,7 +11,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p>--by DNS resolve (udp.port == 53)</p>
 <p>--by HTTPS traffic (tcp.port == 80)</p>
 <p>-by TCP traffic with text data (tcp contains "curl")</p>
-<p>WireShark display filter operators (==. contains, etc.)
+<p>-WireShark display filter operators (==. contains, etc.)
 <p>-Packet capture analysis:</p>
 <p>--Destination IP address</p>
 <p>--Arrival time</p>
