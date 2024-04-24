@@ -8,7 +8,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p>--by source IP Address (ip.src == ...)</p>
 <p>--by destintation Address (ip.dst == ...)</p>
 <p>--by MAC address (eth.addr ==...)</p>
-<p>--by DNS resolve (udp.port == 53)/p>
+<p>--by DNS resolve (udp.port == 53)</p>
 <p>--by HTTPS traffic (tcp.port == 80)</p>
 <p>-by TCP traffic with text data (tcp contains "curl")</p>
 <p>-Packet capture analysis:</p>
