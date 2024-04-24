@@ -48,5 +48,5 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p><i>Ref 9: Domain Name Protocol subtree, where attention is brought to the Answers dropdown denoting answering domains (opensource.google.com)</i></p>
 <img src="https://i.imgur.com/kStNuqB.jpg" style="width: 200%;" alt="1">
 <p><i>Ref 10: Display Filter results for TCP packet query, note time to live value 64, most likely denoting origin from a Linux machine</i></p>
-<img src="https://i.imgur.com/1sGYGfB.jpg" style="width: 120%;" alt="1">
+<img src="https://i.imgur.com/1sGYGfB.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 11: Display Filter results for source TCP containing text data query</i></p>
