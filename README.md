@@ -3,7 +3,7 @@
 The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with the WireShark network application and packet capture analysis methodology. The project analyzes a sample .pcap file.
 
 ### Skills Learned
--WireShark filter commands:
+-WireShark display filter commands:
 <p>--by IP Address (ip.addr == ...)</p>
 <p>--by source IP Address (ip.src == ...)</p>
 <p>--by destintation Address (ip.dst == ...)</p>
@@ -11,6 +11,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p>--by DNS resolve (udp.port == 53)</p>
 <p>--by HTTPS traffic (tcp.port == 80)</p>
 <p>-by TCP traffic with text data (tcp contains "curl")</p>
+<p>WireShark display filter operators (==. contains, etc.)
 <p>-Packet capture analysis:</p>
 <p>--Destination IP address</p>
 <p>--Arrival time</p>
