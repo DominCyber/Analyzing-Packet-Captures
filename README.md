@@ -37,7 +37,6 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p>-</p>
 
 ### Steps
-<div>
 <img src="https://i.imgur.com/hikn1xJ.jpg" style="width: 100%;" alt="1">
 <p><i>Ref 1: </i></p>
 <img src="https://i.imgur.com/7Zjb5Mx.jpg" style="width: 65%;" alt="1">
@@ -60,4 +59,3 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p><i>Ref 10: </i></p>
 <img src="https://i.imgur.com/1sGYGfB.jpg" style="width: 100%;" alt="1">
 <p><i>Ref 11: </i></p>
-</div>
