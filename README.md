@@ -1,41 +1,24 @@
 # Analyzing Packet Captures
 ## Objective
-The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with the WireShark network protocol analyzer GUI and packet capture analysis methodology. The project analyzes a sample .pcap file. Specfically, this project explores methodologies to potentially discover data exfiltration.
+The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with the Linux CLI-enabled TCPDUMP packet analyzer and packet capture methodology. The project analyzes a sample .pcap file. Specfically, this project explores methodologies to identify available .
 
 ### Skills Learned
--Data exfiltration methodologies
-<p>-WireShark display filter commands:</p>
-<p>--by IP Address (ip.addr == ...)</p>
-<p>--by source IP Address (ip.src == ...)</p>
-<p>--by destintation Address (ip.dst == ...)</p>
-<p>--by MAC address (eth.addr ==...)</p>
-<p>--by DNS packets (udp.port == 53)</p>
-<p>--by TCP packets (tcp.port == 80)</p>
-<p>-by TCP traffic with text data (tcp contains "curl")</p>
-<p>-WireShark display filter operators (==. contains, etc.)
-<p>-Packet capture analysis:</p>
-<p>--Destination IP address</p>
-<p>--Arrival time</p>
-<p>--Header Length</p>
-<p>--Frame length</p>
-<p>--MAC address</p>
-<p>--Internal protocol</p>
-<p>--Time to live</p>
-<p>--TCP containing text data</p>
+-Packet capture methodologies
+<p>-TCPDUMP switches</p>
 
 ### Tools Used
 -Laptop
-<p>-WireShark network protocol analyzer GUI</p>
+<p>-Linux CLI-enabled TCPDUMP packer analyzer</p>
 <p>-Coursera Google Cybersecurity Professional Certification</p>
 
 ### Steps
 <img src="https://i.imgur.com/odnHQjg.png" style="width: 100%;" alt="1">
-<p><i>Ref 1: </i></p>
+<p><i>Ref 1: Discovering interfaces to conduct packet capture</i></p>
 <img src="https://i.imgur.com/jMzVO1j.png" style="width: 100%;" alt="1">
-<p><i>Ref 2: </i></p>
+<p><i>Ref 2: Interface, port, number of captures, and export file designated, while script is prompted to run in the background and not resolving names, similariy website operning and export .pcap information is displayed </i></p>
 <img src="https://i.imgur.com/s6tC3kv.png" style="width: 100%;" alt="1">
-<p><i>Ref 3: </i></p>
+<p><i>Ref 3: Export file read with verbose option</i></p>
 <img src="https://i.imgur.com/bcsBpDP.png" style="width: 100%;" alt="1">
 <p><i>Ref 4: </i></p>
 <img src="https://i.imgur.com/UJcMTKy.png" style="width: 100%;" alt="1">
-<p><i>Ref 5: </i></p>
+<p><i>Ref 5: Hexadecimal and ASCII code is generated to view for anomalies </i></p>
