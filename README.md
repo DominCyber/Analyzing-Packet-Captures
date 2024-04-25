@@ -1,6 +1,6 @@
 # Analyzing Packet Captures
 ## Objective
-The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with the WireShark network protocol analyzer GUI and packet capture analysis methodology. The project analyzes a sample .pcap file.
+The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with the WireShark network protocol analyzer GUI and packet capture analysis methodology. The project analyzes a sample .pcap file. Specfically, this project explores methodologies to potentially discover data exfiltration.
 
 ### Skills Learned
 -WireShark display filter commands:
