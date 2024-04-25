@@ -19,11 +19,6 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p><i>Ref 2: Interface, port, number of captures, and export file designated, while script is prompted to run in the background and not resolving names, simlariy website opening and export .pcap information is displayed </i></p>
 
 <p><b>Significant takeaways for the packet header information:</b></p>
-|Element  |Examples---------->|                   |     
-|---------|-------------------|-------------------|
-|TOS      |0x0                |0x60               |
-|TTL      |64 (Linux)         |128 (Windows)      |
-|Flags    |P. (Push data, ACK)|DF (Don't Fragment)|
 
 <html lang="en">
 <head>
