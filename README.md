@@ -15,7 +15,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 ### Steps
 <img src="https://i.imgur.com/jMzVO1j.png" style="width: 100%;" alt="1">
 <p><i>Ref 1: Discovering interfaces to conduct packet capture</i></p>
-<img src="https://i.imgur.com/odnHQjg.png" style="width: 100%;" alt="1">
+<img src="https://i.imgur.com/odnHQjg.png" style="width: 250%;" alt="1">
 <p><i>Ref 2: Interface, port, number of captures, and export file designated, while script is prompted to run in the background and not resolving names, simlariy website opening and export .pcap information is displayed </i></p>
 <img src="https://i.imgur.com/UJcMTKy.png" style="width: 100%;" alt="1">
 <p><i>Ref 3: Export file read with verbose option</i></p>
