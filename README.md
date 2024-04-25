@@ -32,22 +32,26 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
   <tr>
     <th>Element</th>
     <th>Examples</th>
+    <th>Examples</th>
     <th></th>
   </tr>
   <tr>
     <td>TOS</td>
     <td>0x0</td>
     <td>0x60</td>
+    <td></td>
   </tr>
   <tr>
     <td>TTL</td>
     <td>64 (Linux)</td>
     <td>128 (Windows)</td>
+    <td></td>
   </tr>
   <tr>
     <td>Flags</td>
     <td>P. (Push data, ACK)</td>
     <td>DF (Don't Fragment)</td>
+    <td></td>
   </tr>
 </table>
 
