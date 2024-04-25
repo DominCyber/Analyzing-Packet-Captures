@@ -25,6 +25,40 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 |TTL      |64 (Linux)         |128 (Windows)      |
 |Flags    |P. (Push data, ACK)|DF (Don't Fragment)|
 
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IP Header Field Examples</title>
+</head>
+<body>
+
+<table border="1">
+  <tr>
+    <th>Element</th>
+    <th>Examples</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>TOS</td>
+    <td>0x0</td>
+    <td>0x60</td>
+  </tr>
+  <tr>
+    <td>TTL</td>
+    <td>64 (Linux)</td>
+    <td>128 (Windows)</td>
+  </tr>
+  <tr>
+    <td>Flags</td>
+    <td>P. (Push data, ACK)</td>
+    <td>DF (Don't Fragment)</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
 <img src="https://i.imgur.com/UJcMTKy.png" style="width: 100%;" alt="1">
 <p><i>Ref 3: Export file read with verbose option</i></p>
 <img src="https://i.imgur.com/bcsBpDP.png" style="width: 100%;" alt="1">
