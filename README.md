@@ -29,25 +29,13 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 <p>-Coursera Google Cybersecurity Professional Certification</p>
 
 ### Steps
-<img src="https://i.imgur.com/hikn1xJ.jpg" style="width: 200%;" alt="1">
-<p><i>Ref 1: Display Filter results for IP address query</i></p>
-<img src="https://i.imgur.com/7Zjb5Mx.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 2: Frame subtree, where attention is brought to arrival time, frame length</i></p>
-<img src="https://i.imgur.com/ldNzY5m.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 3: Ethernet II subtree, where attention is brought to source and destination MAC addresses, and the Time to Live value</i></p>
-<img src="https://i.imgur.com/Zw8gX2I.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 4: Transmission Control Protocol subtree, where attention is brought to source and destination port, and Flags</i></p>
-<img src="https://i.imgur.com/jbl1iUO.jpg" style="width: 200%;" alt="1">
-<p><i>Ref 5: Display Filter results for source IP address query</i></p>
-<img src="https://i.imgur.com/zun9dkB.jpg" style="width: 200%;" alt="1">
-<p><i>Ref 6: Display Filter results for destination IP address query</i></p>
-<img src="https://i.imgur.com/mamNprf.jpg" style="width: 200%;" alt="1">
-<p><i>Ref 7: Display Filter results for MAC Address query</i></p>
-<img src="https://i.imgur.com/GWNqW6J.jpg" style="width: 200%;" alt="1">
-<p><i>Ref 8: Display Filter results for DNS packet query</i></p>
-<img src="https://i.imgur.com/9fMdqd0.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 9: Domain Name Protocol subtree, where attention is brought to the Answers dropdown denoting answering domains (opensource.google.com)</i></p>
-<img src="https://i.imgur.com/kStNuqB.jpg" style="width: 200%;" alt="1">
-<p><i>Ref 10: Display Filter results for TCP packet query, note time to live value 64, most likely denoting origin from a Linux machine</i></p>
-<img src="https://i.imgur.com/1sGYGfB.jpg" style="width: 85%;" alt="1">
-<p><i>Ref 11: Display Filter results for source TCP containing text data query</i></p>
+<img src="https://i.imgur.com/odnHQjg.png" style="width: 100%;" alt="1">
+<p><i>Ref 1: </i></p>
+<img src="https://i.imgur.com/jMzVO1j.png" style="width: 100%;" alt="1">
+<p><i>Ref 2: </i></p>
+<img src="https://i.imgur.com/s6tC3kv.png" style="width: 100%;" alt="1">
+<p><i>Ref 3: </i></p>
+<img src="https://i.imgur.com/bcsBpDP.png" style="width: 100%;" alt="1">
+<p><i>Ref 4: </i></p>
+<img src="https://i.imgur.com/UJcMTKy.png" style="width: 100%;" alt="1">
+<p><i>Ref 5: </i></p>
