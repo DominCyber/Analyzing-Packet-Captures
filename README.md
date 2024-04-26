@@ -35,17 +35,18 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
     <th>Examples</th>
     <th></th>
   </tr>
+ <tr>
+    <td>TTL</td>
+    <td>64 (Linux)</td>
+    <td>126 (128 is Windows)</td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>TOS</td>
     <td>0x0 (default)</td>
     <td>0x60 (CS3)</td>
     <td>0x80 (CS4)</td>
-  </tr>
-  <tr>
-    <td>TTL</td>
-    <td>64 (Linux)</td>
-    <td>126 (128 is Windows)</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>
