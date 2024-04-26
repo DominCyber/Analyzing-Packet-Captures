@@ -9,7 +9,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 ### Tools Used
 -Laptop
-<p>-Linux CLI-enabled TCPDUMP packer analyzer</p>
+<p>-Linux CLI-enabled TCPDump packer analyzer</p>
 <p>-Coursera Google Cybersecurity Professional Certification</p>
 
 ### Steps
