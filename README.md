@@ -46,8 +46,8 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
   <tr>
     <td>TOS</td>
     <td>0x0 (default)</td>
-    <td>0x60 (CS3)</td>
-    <td>0x80 (CS4)</td>
+    <td>0x60 (CS3)*</td>
+    <td>0x80 (CS4)**</td>
     <td></td>
   </tr>
   <tr>
@@ -62,5 +62,10 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 </body>
 </html>
+<p><i>*CS3 class selector 3; broadcast video</i>(1)</p)>
+<p><i>**CS4 class selector 4; real-time interactive</i>(1)</p>
 <img src="https://i.imgur.com/bcsBpDP.png" style="width: 100%;" alt="1">
 <p><i>Ref 4: Hexadecimal and ASCII code is generated to view for anomalies </i></p>
+
+### References
+Configuration Guidelines for DiffServ Service Classes. https://datatracker.ietf.org/doc/html/rfc4594.
