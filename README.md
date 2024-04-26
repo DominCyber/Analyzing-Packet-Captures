@@ -33,7 +33,8 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
     <th>Element</th>
     <th>Examples</th>
     <th>Examples</th>
-    <th></th>
+    <th>Examples</th>
+    <th>Examples</th>
   </tr>
  <tr>
     <td>TTL</td>
