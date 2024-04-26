@@ -1,10 +1,10 @@
 # Analyzing Packet Captures
 ## Objective
-The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with the Linux CLI-enabled TCPDUMP packet analyzer and packet capture methodology. The project analyzes a sample .pcap file. Specfically, this project explores methodologies to identify available interfaces, generate packet capture files, and analyze HTTP packet captures.
+The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with the Linux CLI-enabled TCPDump packet analyzer and packet capture methodology. The project analyzes a sample .pcap file. Specfically, this project explores methodologies to identify available interfaces, generate packet capture files, and analyze HTTP packet captures.
 
 ### Skills Learned
 -Packet capture methodologies
-<p>-TCPDUMP switches</p>
+<p>-TCPDump switches</p>
 <p>-generate packet capture files</p>
 
 ### Tools Used
@@ -37,21 +37,24 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
   </tr>
   <tr>
     <td>TOS</td>
-    <td>0x0</td>
-    <td>0x60</td>
-    <td></td>
+    <td>0x0 (default)</td>
+    <td>0x60 (CS3)</td>
+    <td>0x80 (CS4)</td>
   </tr>
   <tr>
     <td>TTL</td>
     <td>64 (Linux)</td>
-    <td>128 (Windows)</td>
+    <td>126 (128 is Windows)</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Flags</td>
-    <td>P. (Push data, ACK)</td>
-    <td>DF (Don't Fragment)</td>
-    <td></td>
+    <td>[P.] (Push data)</td>
+    <td>[.] (ACK)</td>
+    <td>[S.] (SYN/ACK)</td>
+    <td>[F.] (FIN/ACK)</td>
+
   </tr>
 </table>
 
