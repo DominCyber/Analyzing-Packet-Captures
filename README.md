@@ -4,7 +4,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 ### Skills Learned
 -Packet capture methodologies
-<p>-TCPDump switches</p>
+<p>-TCPDump commands and switches</p>
 <p>-generate packet capture files</p>
 
 ### Tools Used
